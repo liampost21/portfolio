@@ -83,6 +83,7 @@
     padding-right: 10%;
     justify-content: center;
     align-content: center;
+    align-items: flex-start;
 }
 
 .project-item{
